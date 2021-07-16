@@ -1,11 +1,11 @@
-webpwn3r
-========
+WebCreatorXXII
+==============
 
-WebPwn3r - Web Applications Security Scanner.
+WebCreatorXXII - Applications Security Scanner.
 
-By Ebrahim Hegazy - @Zigoo0
+By Mr.XXII Team ZonaredXXII Security Hacker Commander - @Zigoo0
 
-Thanks: @lnxg33k, @dia2diab @Aelhemily, @okamalo 
+My Blogger : https://bit.ly/3r5n16I
 
 Please send all your feedback and suggestions to: zigoo.blog['at']@gmail.com
 
